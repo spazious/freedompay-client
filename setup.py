@@ -20,7 +20,7 @@ from setuptools import setup, find_packages  # noqa: H301
 #
 # prerequisite: setuptools
 # http://pypi.python.org/pypi/setuptools
-NAME = "freedompay-client"
+NAME = "freedompay_client"
 VERSION = "1.5.0"
 PYTHON_REQUIRES = ">=3.7"
 REQUIRES = [
